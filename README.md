@@ -35,7 +35,7 @@ Robotics and coding enthusiast 🤖 | Engineering student 💻
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ## 🚀 Featured robotics projects
-
+* 🚗 **Złomek Autonomous Robot(Link do repozytorium):** An autonomous obstacle-avoiding tricycle robot with a unique stepper-motor front steering module. Operates on a Finite State Machine (FSM) with ultrasonic sector scanning. 
 * 🤖 **Gyro Balancing Robot (https://github.com/endurraa/Gyro):** A two-wheeled self-balancing robot. *A self-balancing robotics project demonstrating sensor data processing and continuous PID algorithm implementation to maintain equilibrium.*
 
 ---
