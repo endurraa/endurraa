@@ -22,11 +22,11 @@ Robotics and coding enthusiast 🤖 | Engineering student 💻
 **Tools & Environment:**
 * Git / SolidWorks / PlatformIO / KiCad / Fritzing / Arduino IDE
 
-## 🚀 Featured Projects
+## 🚀 Featured robotics projects
 
-* 🤖 **[Gyro Balancing Robot](Link to the repository):** A two-wheeled self-balancing robot. *[Add a one-sentence description, e.g., Built using an MPU6050 sensor and a custom PID controller]*
+* 🤖 **Gyro Balancing Robot (Link to the repository):** A two-wheeled self-balancing robot. *A self-balancing robotics project demonstrating sensor data processing and continuous PID algorithm implementation to maintain equilibrium.*
 * 💻 **[University Project Name 1](Link to the repository):** *[Short description of the software project, e.g., Pathfinding algorithm visualization written in C++]*
 * 💻 **[University Project Name 2](Link to the repository):** *[Short description, e.g., Database management system created for the final semester assignment]*
 
 ---
-*⚡ Fun fact: [Add a short fun fact about yourself, e.g., I spend more time debugging hardware connections than actual code!]*
+*⚡ Fun fact: **I spend more time debugging code connections than actual hardware ;)**
