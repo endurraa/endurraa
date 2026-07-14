@@ -16,11 +16,11 @@ Robotics and coding enthusiast 🤖 | Engineering student 💻
 * C / C++ / Python / Java
 
 **Hardware & Embedded:**
-* [e.g., Arduino / STM32 / Raspberry Pi / ESP32]
-* [e.g., Sensors (e.g., MPU6050 IMU) / Motor Drivers / PID Control]
+* Arduino / STM32 / Raspberry Pi / ESP32
+* Sensors (e.g., MPU6050 IMU, HC-SR04 etc.) / Motor Drivers / PID Control 
 
 **Tools & Environment:**
-* [e.g., Git / Linux / PlatformIO / KiCad / Fritzing]
+* Git / SolidWorks / PlatformIO / KiCad / Fritzing / Arduino IDE
 
 ## 🚀 Featured Projects
 
