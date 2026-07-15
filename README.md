@@ -10,13 +10,6 @@ Robotics and coding enthusiast 🤖 | Engineering student 💻
 * 💡 I am passionate about bridging the gap between software and hardware to create things that move and interact with the real world in only a POSITIVE way.
 * 📫 How to reach me: Email Address - gabriel.kozlowski2005@gmail.com or connect with me on Discord: endurraa.
 ---
-## 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=endurraa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endurraa&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="165" alt="Top Languages" />
-</div>
----
 ## 🛠️ Tech Stack & Tools
 
 **💻 Programming Languages**<br>
