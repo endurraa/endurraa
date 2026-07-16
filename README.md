@@ -40,7 +40,7 @@ Robotics and coding enthusiast 🤖 | Engineering student 💻
 
 ---
 ## 💻 Featured coding projects
-* 🕹️ **C++ Console Arcade (Arkanoid & Snake)():** A terminal-based game hub developed in Visual Studio. Features a Snake game with 3 custom AI difficulty levels (pathfinding logic) and an Arkanoid clone with collision physics and file-based high scores (`.dat`). Includes animated ASCII art intros using Windows API.
+* 🕹️ **C++ Console Arcade (Arkanoid & Snake)(https://github.com/endurraa/Arkanoid-Snake):** A terminal-based game hub developed in Visual Studio. Features a Snake game with 3 custom AI difficulty levels (pathfinding logic) and an Arkanoid clone with collision physics and file-based high scores (`.dat`). Includes animated ASCII art intros using Windows API.
 * 🃏 **Python CLI Blackjack():** A fully object-oriented (OOP) command-line Blackjack game. Features dynamic card drawing, dealer logic, multi-player support, and a colored ANSI terminal interface with ASCII animations.
 ---
 *⚡ Fun fact: **I spend more time debugging code connections than actual hardware ;)**
